@@ -1,4 +1,4 @@
-![Logo do projeto](assets/img/Clínica-Veterinária.png)
+![Logo do projeto](assets/img/Clínica-Pet-com-Amor.png)
 
 # Pet Shop
 
