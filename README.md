@@ -1,4 +1,4 @@
-![Logo do projeto](assets/img/Clínica-de-Estética.png)
+![Logo do projeto](assets/img/Clínica-Veterinária.png)
 
 # Pet Shop
 
