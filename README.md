@@ -7,7 +7,7 @@ Aqui você pode visualizar uma Landing Page de uma pet shop fictícia, com intui
 
 Explore, veja meu trabalho, e sinta-se livre para entrar em contato para colaborações ou oportunidades!
 
-#### Acesse em https://ingridssilveira.github.io/clinica-estetica/
+#### Acesse em https://ingridssilveira.github.io/pet-shop/
 
 
 ## 👷 Autores
